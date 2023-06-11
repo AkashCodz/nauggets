@@ -1,87 +1,46 @@
+# nauggets
 
+A new Flutter project with Registraion and Home page.
 
-# Online chat
+## Getting Started
 
-Create a platform where users can sign up /log in with their credentials. Make
-them online after entering the portal and then connect users using a socket connection based
-on their interests (choose a few topics of interests to connect (like food, countries, travel, movies, etc.)).
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-## Documentation
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
- - [Django Channels](https://channels.readthedocs.io/en/stable/)
- - [Channel Layers](https://channels.readthedocs.io/en/stable/topics/channel_layers.html)
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
 ## Tech Stack
 
-**Client:** Vanilla JavaScript, TailwindCSS
-
-**Server:** Django, Django Channels
+**Client:** Flutter
 
 
 ## Features
 
-- Live Chat
-- Fullscreen mode
-- Cross platform
-
-
-## Run Locally
-
-Download the Django library
-
-```bash
-    pip install django
-```
-
-Go to the project directory
-
-```bash
-    cd my-project
-```
-
-Install dependencies
-
-```bash
-    pip install channels-redis
-```
-
-Start the server
-
-```bash
-    py manage.py runserver
-```
+- Login
+- SignUp
+- Forgot Password
 
 
 ## Screenshots
 
-![Screenshot 2023-05-06 132408](https://user-images.githubusercontent.com/101062599/236611394-17628c78-f6cc-4044-8a8d-b83d3edeffe8.png)
+![Screenshot_1686495292](https://github.com/AkashCodz/nauggets/assets/101062599/7ff430dc-f300-48eb-9024-6a76e46d54a8)
+![Screenshot_1686495308](https://github.com/AkashCodz/nauggets/assets/101062599/881bcb44-091e-4f43-8305-1765a599f2f1)
+![Screenshot_1686495315](https://github.com/AkashCodz/nauggets/assets/101062599/c545e77d-9a04-4c6d-8857-ff0420242544)
+![Screenshot_1686495338](https://github.com/AkashCodz/nauggets/assets/101062599/13c7882e-16a2-4452-b20a-559c52c4f996)
 
-![Screenshot 2023-05-06 132530](https://user-images.githubusercontent.com/101062599/236611401-ae8452ca-d097-44cd-b4c0-524acfa860ce.png)
-
-![Screenshot 2023-05-06 132602](https://user-images.githubusercontent.com/101062599/236611400-481b0ca0-945b-46cf-9316-3b97b328252a.png)
 
 
 
 
 # Hi, I'm Akash Sharma! 👋
-## 🚀 About Me
-I'm a full stack developer and Machine learning Intern.
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on IMSEC as a Student.
-
-🧠 I'm currently learning Machine learning.
-
-👯‍♀️ I'm looking to collaborate on new projects on machine learning and 
-web developments projects.
-
-🤔 I'm looking for help with developers.
-
-📫 How to reach me through LinkedIn.
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash--sharma/)
-
 
 
 ## 🛠 Skills
@@ -92,17 +51,3 @@ Html, CSS, Python, Django, Django RestFramework, Django WebSockets, Javascript.
 
 - [Akash Sharma](https://github.com/AkashCodz)
 
-
-## FAQ
-
-#### What to do, if channel is not running.
-
-Run your redis or memurai in services [search in windows].
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at akashwin1112@gmail.com
-## Support
-
-For support, email akashwin1112@gmail.com or connect through LinkedIn.
